@@ -1,5 +1,5 @@
 project: rnshah9/libipt
-target: libipt
+target: ptdump
 
 cmds:
   - cmd: /repo/build/bin/ptdump @@
