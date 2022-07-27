@@ -2,4 +2,4 @@ project: libipt
 target: ptdump
 
 cmds:
-  - cmd: /repo/build/bin/ptdump @@
+  - cmd: /ptdump @@
